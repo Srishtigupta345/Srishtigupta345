@@ -1,16 +1,93 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Srishti Gupta</h1>
+<h3 align="center">MERN Stack Developer | Java DSA | Building Real World Projects</h3>
 
-<!--
-**Srishtigupta345/Srishtigupta345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;MERN+Stack+Learner;Java+DSA+Practitioner;Building+Projects+Everyday">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+* 🎓 BTech Student passionate about software development
+* 💻 Currently learning **MERN Stack Development**
+* 🧠 Practicing **Data Structures & Algorithms using Java**
+* 🚀 Building full-stack web applications
+* 📈 Focused on improving problem solving and backend development
+
+---
+
+## 🌐 Connect With Me
+
+* 💼 LinkedIn: (Add your LinkedIn link)
+* 💻 LeetCode: (Add your LeetCode profile)
+* 📧 Email: (Add your email)
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,java,git,github,vscode" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Srishtigupta345&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Srishtigupta345&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srishtigupta345&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 💻 Projects
+
+### 🌍 Wanderlust
+
+A full-stack travel listing web application where users can explore and add travel destinations.
+
+Features:
+
+* User authentication
+* Add and manage travel listings
+* Image uploads
+* MongoDB database integration
+
+Tech Stack: Node.js, Express.js, MongoDB, EJS, CSS
+
+🔗 GitHub Repo: https://github.com/Srishtigupta345/Wanderlust-Project
+---
+
+### 🗂 TrackFlow
+
+A Jira-like issue tracking system.
+
+Features:
+
+* Authentication system
+* Project management
+* Issue tracking dashboard
+* MVC architecture
+
+Tech Stack: Node.js, Express.js, MongoDB
+
+---
+
+⭐️ From Srishti Gupta
