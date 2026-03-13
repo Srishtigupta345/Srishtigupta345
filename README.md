@@ -19,9 +19,11 @@
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: (Add your LinkedIn link)
-* 💻 LeetCode: (Add your LeetCode profile)
-* 📧 Email: (Add your email)
+* 💼 LinkedIn: (https://www.linkedin.com/in/srishti-gupta-205615307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  
+* 💻 LeetCode: (https://leetcode.com/u/Srishti_gupta26/)
+* 📊 Codolio: (https://codolio.com/profile/ItvFzDFL))
+* 📧 Email: (sg328325@gmail.com)
 
 ---
 
