@@ -88,7 +88,7 @@ Features:
 * Issue tracking dashboard
 * MVC architecture
 
-Tech Stack: Node.js, Express.js, MongoDB
+Tech Stack: Node.js, Express.js, MongoDB, EJS, CSS
 
 ---
 
